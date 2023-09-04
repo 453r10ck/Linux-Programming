@@ -1,9 +1,6 @@
 {
     "files.associations": {
-        "stdlib.h": "c",
-        "string.h": "c",
-        "limits.h": "c",
-        "errno.h": "c",
-        "get_num.h": "c"
+        "tlpi_hdr.h": "c",
+        "error_functions.h": "c"
     }
 }
